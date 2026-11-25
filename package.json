@@ -1,0 +1,20 @@
+{
+  "name": "rma-sop-portal",
+  "version": "1.0.0",
+  "description": "Enterprise Interactive eRMA Portal Operation Guide & Knowledge Base",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 5173",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --port 4173"
+  },
+  "keywords": [
+    "advantech",
+    "erma",
+    "sop",
+    "documentation",
+    "vitepress"
+  ],
+  "author": "Advantech AGS Team",
+  "license": "MIT"
+}

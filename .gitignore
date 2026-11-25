@@ -1,0 +1,6 @@
+node_modules/
+scratch/
+.vitepress/
+docs/
+.DS_Store
+*.log
